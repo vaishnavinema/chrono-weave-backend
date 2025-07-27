@@ -1,0 +1,3 @@
+com\example\captionsense\controller\CaptionController.class
+com\example\captionsense\CaptionsenseApplication.class
+com\example\captionsense\service\GeminiService.class
